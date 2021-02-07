@@ -1,0 +1,9 @@
+.error {
+  color: #dc143c;
+  font-weight: bold;
+  line-height: 30px;
+  padding: 20px 16px 0;
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 16px;
+}
